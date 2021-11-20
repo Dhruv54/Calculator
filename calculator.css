@@ -5,6 +5,16 @@ button {
     text-align: center;
 }
 
+button:hover {
+    box-shadow: 5px 5px #888888;
+}
+
 #display {
     font-size: 40px;
+}
+
+.welcome {
+    position: absolute;
+    top: 50px;
+    left: 100px;
 }
