@@ -1,2 +1,2 @@
 # Calculator
-##Using pure HTML,CSS,JS
+## Using pure HTML,CSS,JS
